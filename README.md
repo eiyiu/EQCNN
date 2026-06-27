@@ -1,5 +1,5 @@
 # EQCNN
-An implementation of the paper ["Theory for Equivariant Quantum Neural Networks"](https://doi.org/10.1103/PRXQuantum.5.020328) by Nguyen et al using PennyLane and PyTorch.
+An implementation of the paper ["Theory for Equivariant Quantum Neural Networks"](https://doi.org/10.1103/PRXQuantum.5.020328) by Nguyen et al. using PennyLane and PyTorch.
 
 We recreate the experiment in the [paper](https://doi.org/10.1103/PRXQuantum.5.020328) and train classifiers to classify the ground states of the Hamiltonian 
 
